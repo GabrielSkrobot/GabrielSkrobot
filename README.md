@@ -6,4 +6,6 @@
           
 🎓 Sou formado em Negócios Digitais e Administração pela FAE Centro Universitário de Curitiba e, atualmente, estou me especializando em Ciência de Dados pela EBAC.
  
-📊 Desde a graduação, desenvolvi um forte interesse pela área de dados e venho aprofundando meus conhecimentos com foco em aplicações práticas e estratégicas. Esse perfil é um lugar para colaboração e compartilhar conhecimento
+📊 Desde a graduação, desenvolvi um forte interesse pela área de dados e venho aprofundando meus conhecimentos com foco em aplicações práticas e estratégicas. 
+
+🤝 Este perfil é um espaço para colaboração e troca de conhecimento. Fique à vontade para me seguir e mandar uma mensagem!
