@@ -4,5 +4,6 @@
 
 ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
           
-🎓 Sou formado em Negócios Digitais e Administração pela FAE Centro Universitário de Curitiba e, atualmente, estou me especializando em Ciência de Dados pela EBAC. 
+🎓 Sou formado em Negócios Digitais e Administração pela FAE Centro Universitário de Curitiba e, atualmente, estou me especializando em Ciência de Dados pela EBAC.
+ 
 📊 Desde a graduação, desenvolvi um forte interesse pela área de dados e venho aprofundando meus conhecimentos com foco em aplicações práticas e estratégicas. Esse perfil é um lugar para colaboração e compartilhar conhecimento
